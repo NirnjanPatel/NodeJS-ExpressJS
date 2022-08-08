@@ -1,0 +1,16 @@
+{
+  "name": "23",
+  "version": "1.0.0",
+  "description": "NPM Modules",
+  "main": "npm.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nirnjan Patel",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "nodemon": "^2.0.19",
+    "validator": "^13.7.0"
+  }
+}
